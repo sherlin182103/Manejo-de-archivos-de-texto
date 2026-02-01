@@ -46,7 +46,7 @@ El programa está diseñado con una interfaz amigable, aplicando principios de *
 ## 🚀 Ejecución del Proyecto
 1. Clonar el repositorio:
    ```bash
-  (https://github.com/sherlin182103/Manejo-de-archivos-de-texto/edit/main/README.md)
+  [(https://github.com/sherlin182103/Manejo-de-archivos-de-texto/edit/main/README.md)]
 
   ## 🎓 Contexto Académico
 

@@ -34,10 +34,12 @@ El programa está diseñado con una interfaz amigable, aplicando principios de *
 
 ---
 
-## 🖥️ Vista del Formulario
-![Registro de Empleados](captura.png)
+## 🖼️ Evidencias del Proyecto
 
-> 📎 *Formulario principal para el registro y visualización de empleados.*
+| | | |
+|---|---|---|
+| ![](e1.png) | ![](e2.png) | ![](e3.png) |
+| ![](e4.png) | ![](e5.png) | ![](e6.png) |
 
 ---
 
